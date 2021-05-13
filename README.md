@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm suyanye123 👋
 
 <!--
 **suyanye123/suyanye123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 ### 一名自学转行编程爱好者 
 
-### wechat：iamyunan
+### 微信公众号：简素言也
+### wechat： iamyunan
 
-[博客： https://syy123.com/](https://syy123.com/)
+[网站： https://syy123.com/](https://syy123.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suyanye123)](https://github.com/anuraghazra/github-readme-stats)
   
