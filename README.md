@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 一名转行自学编程爱好者 
+
+### wechat：iamyunan
+
+[博客： https://syy123.com/](https://syy123.com/)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suyanye123)](https://github.com/anuraghazra/github-readme-stats)
   
