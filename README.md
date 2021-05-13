@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 一名转行自学编程爱好者 
+### 一名自学转行编程爱好者 
 
 ### wechat：iamyunan
 
