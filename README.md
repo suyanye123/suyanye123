@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### 一名自学转行编程爱好者 
 
-### 微信公众号：简素言也
-### wechat： iamyunan
+#### 微信公众号：简素言也
+#### wechat： iamyunan
 
 [网站： https://syy123.com/](https://syy123.com/)
 
