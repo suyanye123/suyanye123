@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### 微信公众号及各大网站笔名：简素言也
 一名觉得自己啥也不会的，自学转行编程爱好者 
 
-[网站： https://syy123.com/](https://syy123.com/)
+[个人网站： https://syy123.com/](https://syy123.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suyanye123)](https://github.com/anuraghazra/github-readme-stats)
   
