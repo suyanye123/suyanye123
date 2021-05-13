@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### 一名觉得自己啥也不会的，自学转行编程爱好者 
+一名觉得自己啥也不会的，自学转行编程爱好者 
 
 #### 微信公众号及各大网站笔名：简素言也
 
